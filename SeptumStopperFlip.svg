@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="SeptumStopperFlip.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.7810417 8.6872159"
+   height="32.833569"
+   width="33.188187">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="-36.581417"
+     inkscape:cx="7.4264714"
+     inkscape:zoom="2.0856809"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>KYU</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-75.654426,-404.33047)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <g
+       id="g4973"
+       transform="matrix(0.26458336,0,0,0.26458336,68.052458,164.43267)">
+      <path
+         sodipodi:nodetypes="ccsscccsscc"
+         inkscape:connector-curvature="0"
+         id="path4975"
+         d="m 53.724342,923.80268 v -1.51403 c 2e-6,1.11966 -1.600726,2.15425 -4.199204,2.71408 -2.598475,0.55983 -5.79993,0.55983 -8.398406,0 -2.598478,-0.55983 -4.199205,-1.59442 -4.199203,-2.71408 v 1.51403 l 1.273168,7.57017 c -2e-6,0.94991 1.358062,1.82767 3.562619,2.30263 2.204557,0.47496 4.920682,0.47496 7.125238,0 2.204558,-0.47496 3.562621,-1.35272 3.56262,-2.30263 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse4977"
+         cx="45.325935"
+         cy="916.34015"
+         rx="11.094092"
+         ry="4.1398764" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 56.420028,918.34015 v -2 c 2e-6,1.47904 -2.114521,2.84572 -5.547047,3.58524 -3.432524,0.73952 -7.661568,0.73952 -11.094092,0 -3.432526,-0.73952 -5.547048,-2.1062 -5.547046,-3.58524 v 2 l 1.681825,10 c -2e-6,1.25482 1.793966,2.41432 4.706133,3.04173 2.912166,0.62741 6.500102,0.62741 9.412268,0 2.912167,-0.62741 4.706135,-1.78691 4.706134,-3.04173 z"
+         id="path4979"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsscccsscc" />
+    </g>
+  </g>
+</svg>
