@@ -5,7 +5,7 @@ English follows Japanese
 
 ## 概要
 * 化学系(一部生化学系)でよく用いる器具のsvg画像集
-* 無料ソフトのInkscapeなどでパーツごとに編集することが可能
+* 無料ソフトの[Inkscape](https://inkscape.org/ja/)などでパーツごとに編集することが可能
 * CC BY 4.0に従って、クレジットさえ表示すれば、無料で自由に使用可能
 * 詳細は後述するが、学会などで用いる場合はクレジット表記も不要でほぼ制約なし
 
@@ -27,6 +27,12 @@ English follows Japanese
 * 科学的根拠を伴わない商品の宣伝
 * 教育目的でないクイズゲームなど
 
+
+## Overview
+* A collection of svg images of instruments commonly used in chemistry (and some biochemistry).
+* Can be edited with free software such as [Inkscape](https://inkscape.org/)
+* Free to use as long as credit is given in accordance with CC BY 4.0
+* No credit is required for use in academic conferences, etc., and there are almost no restrictions, although details will be discussed later.
 
 # Additional information about "attribution (BY)" under CC BY 4.0
 These sentenses are a machine-translated version of the Japanese text, and if there is a mistake, you need to follow the Japanese text.
