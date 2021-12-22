@@ -1,6 +1,8 @@
 # SVG Collection of Lab Equipment
 English follows Japanese
 
+![Summary](summary.png)
+
 ## 概要
 * 化学系(一部生化学系)でよく用いる器具のsvg画像集
 * 無料ソフトのInkscapeなどでパーツごとに編集することが可能
